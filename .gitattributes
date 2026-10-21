@@ -1,0 +1,5 @@
+# Keep the repository classified as documentation rather than a LaTeX project:
+# the .tex file is a paper template, not the point of this repo.
+docs/*        linguist-documentation
+templates/*   linguist-documentation
+scripts/*     linguist-detectable

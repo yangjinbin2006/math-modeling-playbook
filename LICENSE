@@ -1,0 +1,58 @@
+# 许可协议
+
+本仓库文档（`docs/`、`templates/`、`README.md`）采用
+**知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）**。
+
+代码（`scripts/`）采用 **MIT License**。
+
+---
+
+## 你可以
+
+- **共享** — 以任何媒介或格式复制、发行本作品
+- **演绎** — 修改、转换或以本作品为基础进行创作
+
+只要遵守下列条款，许可人不能撤销这些自由。
+
+## 你必须遵守
+
+- **署名** — 必须给出适当的署名，提供指向本许可协议的链接，同时标明是否作出了修改。你可以用任何合理的方式署名，但不得暗示许可人为你或你的使用背书。
+- **非商业性使用** — 不得将本作品用于商业目的。包括但不限于：付费课程、付费社群、付费资料包、培训机构教材、以本作品为主要卖点的商业产品。
+- **相同方式共享** — 若你修改、转换或以本作品为基础进行创作，你必须以相同的许可协议分发你的贡献作品。
+- **不得增加额外限制** — 不得适用法律术语或技术措施，从而在法律上限制他人做本许可协议允许的事情。
+
+## 没有担保
+
+本作品按"原样"提供，不附带任何形式的明示或默示担保。作者不对因使用本作品而产生的任何后果负责，包括但不限于竞赛成绩、学术评价、以及因未遵守当届竞赛规则而产生的任何问题。
+
+**使用者有责任自行确认：本作品的内容是否符合你所参加竞赛的当届规则，以及你所在学校的规定。**
+
+---
+
+完整法律文本：<https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans>
+
+协议摘要（中文）：<https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh>
+
+---
+
+## MIT License（适用于 `scripts/`）
+
+Copyright (c) 2026 yangjinbin2006
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

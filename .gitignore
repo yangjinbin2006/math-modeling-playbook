@@ -1,0 +1,37 @@
+# LaTeX 编译中间产物
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+
+# Office 临时文件
+~$*.docx
+~$*.xlsx
+~$*.pptx
+.~lock.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 参赛工作区（不要误提交题目、论文与支撑材料）
+题目/
+附件/
+问题[ABCD]/
+论文/
+支撑材料/
+result_lock*.json
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
